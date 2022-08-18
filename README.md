@@ -6,9 +6,7 @@ File Descriptions:
 
 • dkmacovid train.csv - main training data with input features and three binary labels.
 
-• dkmacovid kaggletest features.csv - feature for a test set, with "Id" column for Kaggle competition.
-
-• dkmacovid kaggletest labels.csv - labels for the kaggle test set...oh, you don't get that one
+• .joblib - various saved models
 
 Steps followed:-
 
